@@ -1,183 +1,439 @@
 {
     "available_space": true,
-    "file_sizes": {
-        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": 13.261687278747559,
-        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": 22.85133171081543,
-        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin' (Live From Austin, TX)-vYb0ZylEMbg.mp4": 8.665133476257324,
-        "Stevie Ray Vaughan - Live - MTV Unplugged 1990-FQ_DdgxRSak.mp4": 27.406797409057617,
-        "Stone Temple Pilots - Interstate Love Song (Official HD Music Video)-yjJL9DGU7Gg.mp4": 14.775209426879883,
-        "Stray Cats 'Double Talkin' Baby'-AMwYnGyh_PI.mp4": 4.9001874923706055,
-        "Stray Cats - Runaway Boys-SveJCGB09GU.mp4": 13.973004341125488,
-        "Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4": 15.82105827331543,
-        "TE QUEDASTE SOLA    CONJUNTO PRIMAVERA.mp4": 12.677087783813477,
-        "THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4": 8.747194290161133,
-        "TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4": 4.713631629943848,
-        "Te He Dejado De Querer - Conjunto Primavera.mp4": 8.65815258026123,
-        "Telic - INVADE (Prod. Ronny J) ft. KotyKillem & TrippyThaKid [Official Audio]-e1pKT5Ia07c.mp4": 6.616189002990723,
-        "The Best Of Me-tq3497mpQlg.mp4": 5.3267669677734375,
-        "The Chemical Brothers - Get Yourself High-cYXI344Siew.mp4": 13.466890335083008,
-        "The Cure - Halo with lyrics and subs.mp4": 12.604018211364746,
-        "The End Of A Love Affair (Remastered)-NdhoQA5jYyU.mp4": 7.432655334472656,
-        "The End Of The Line-Hdil-F6B1gk.mp4": 19.73052406311035,
-        "The Good Life - Lovers Need Lawyers [Official Music Video].mp4": 6.894878387451172,
-        "The Growlers - .mp4": 18.78126621246338,
-        "The Impact Of Reason-a0VYlpzYASo.mp4": 8.45265007019043,
-        "The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4": 6.833495140075684,
-        "The Jam - When You're Young-GO-3oXkZwPg.mp4": 11.793097496032715,
-        "The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4": 26.812488555908203,
-        "The Man Who Never Lied-EwUiqHDpUks.mp4": 8.64660930633545,
-        "The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4": 11.25770092010498,
-        "The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4": 7.626861572265625,
-        "The Mars Volta-Eriatarka-KQDcrFVN8mk.mp4": 10.119962692260742,
-        "The National - Fake Empire-KehwyWmXr3U.mp4": 7.084216117858887,
-        "The Ocean Blue - Ballerina Out Of Control (Video)-2FJF4Swq_PU.mp4": 13.456154823303223,
-        "The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4": 16.424248695373535,
-        "The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4": 26.22789192199707,
-        "The Residents  - Troubled Man-oCmrpJhDlXg.mp4": 5.366315841674805,
-        "The Residents -  End of Home-PP1tVGaPMCc.mp4": 3.6396780014038086,
-        "The Residents - Amber-GFHs3Wzd19U.mp4": 2.832082748413086,
-        "The Residents - LaLa-8vk3BSuwtEM.mp4": 3.0448226928710938,
-        "The Residents - Loneliness-P3U5CQ8N8TY.mp4": 3.091716766357422,
-        "The Residents - Love Is...-UwfE03dfco0.mp4": 4.474908828735352,
-        "The Residents - Picnic Boy-mFpnptcqtkg.mp4": 4.402469635009766,
-        "The Residents - Rest Aria-24qySJQjIdE.mp4": 6.371742248535156,
-        "The Residents - Smelly Tongues-mUxN4gyarEw.mp4": 1.688516616821289,
-        "The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4": 2.8623342514038086,
-        "The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4": 4.159758567810059,
-        "The Residents - When We Were Young-WnDCek4Y-_Q.mp4": 4.003140449523926,
-        "The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4": 4.938320159912109,
-        "The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4": 5.119672775268555,
-        "The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4": 9.513642311096191,
-        "The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4": 11.409920692443848,
-        "The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4": 16.70432186126709,
-        "The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4": 12.104583740234375,
-        "The World Has Turned And Left Me Here-sRfu94lOEPo.mp4": 6.727060317993164,
-        "The mars volta - Miranda That Ghost Just Isn't Holy Anymore-BxTTg0gJquM.mp4": 5.425252914428711,
-        "Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4": 17.022042274475098,
-        "Therion   Quetzalcoatl subtitulos en espa\u00f1ol-L4ePI1zkkyQ.mp4": 10.093080520629883,
-        "They Call Me Guitar Hurricane (Live at Steamboat 1874, Austin, TX - April 1980)-J8BD-Veseo0.mp4": 7.142345428466797,
-        "They Might Be Giants - Istanbul _Sub.Espa\u00f1ol-BX6eaRwr0sg.mp4": 5.680793762207031,
-        "Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4": 4.834733963012695,
-        "This Cocaine Makes Me Feel Like I'm On This Song-oaDnuExc1sI.mp4": 1.943699836730957,
-        "Tin Pan Alley (AKA Roughest Place In Town)-xuYWhsjFpNM.mp4": 11.262996673583984,
-        "Todo a cien-PcOL1w_nxRY.mp4": 9.199601173400879,
-        "Todos Tus Muertos - Adelita (Tu Alma Mia)-IpDMqlkfTqc.mp4": 10.814650535583496,
-        "Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4": 5.897859573364258,
-        "Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4": 10.871726036071777,
-        "Tomando Los Golpes-VJicksiGFzk.mp4": 1.7505474090576172,
-        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": 6.606255531311035,
-        "Traficando Rimas-jgRaGy9b35o.mp4": 9.995291709899902,
-        "Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4": 1.6041040420532227,
-        "Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4": 9.80686092376709,
-        "Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4": 8.94707202911377,
-        "Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4": 8.97243881225586,
-        "Transplants - Diamonds & Guns-TuWuoOX0yis.mp4": 21.839561462402344,
-        "Transplants - One Seventeen-REZTTW6Surs.mp4": 2.5051698684692383,
-        "Transplants - We Trusted You--sKGEWXjbEM.mp4": 5.760561943054199,
-        "Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4": 21.21548557281494,
-        "Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4": 23.43153667449951,
-        "Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4": 15.940881729125977,
-        "Travis Barker - Let's Go ft. Yelawolf, Twista, Busta Rhymes, Lil Jon-UWt1y8tSXHE.mp4": 13.958878517150879,
-        "Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4": 3.2082834243774414,
-        "Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4": 4.652057647705078,
-        "Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4": 4.916133880615234,
-        "Travis Barker feat. Snoop, E-40, Ludacris & Dev - Knockin'-3O45AWP7MXw.mp4": 4.318333625793457,
-        "Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4": 5.5878143310546875,
-        "Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4": 15.079854011535645,
-        "Tu Paz - LEAD  Ft.Cash Luna, Lowsan Melgar, Kim Richards, Evan Craft,  Madiel Lara, y Musiko....-5T2cSoRUP54.mp4": 6.895302772521973,
-        "Tu Sucia Realidad-cVfTUJ0wrmM.mp4": 0.8271608352661133,
-        "Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4": 17.65232753753662
-    },
     "size_max": 27.406797409057617,
     "size_mean": 9.65296217452648,
     "size_min": 0.8271608352661133,
     "total_size": 830.1547470092773,
     "video_list": {
-        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Change%20It%20(Video)-TMY9Wrh1oPA.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Couldn't%20Stand%20the%20Weather%20(Video)-nO23B5C_Mcw.mp4?raw=true",
-        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin' (Live From Austin, TX)-vYb0ZylEMbg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20The%20House%20Is%20Rockin'%20(Live%20From%20Austin%2C%20TX)-vYb0ZylEMbg.mp4?raw=true",
-        "Stevie Ray Vaughan - Live - MTV Unplugged 1990-FQ_DdgxRSak.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Live%20-%20MTV%20Unplugged%201990-FQ_DdgxRSak.mp4?raw=true",
-        "Stone Temple Pilots - Interstate Love Song (Official HD Music Video)-yjJL9DGU7Gg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stone%20Temple%20Pilots%20-%20Interstate%20Love%20Song%20(Official%20HD%20Music%20Video)-yjJL9DGU7Gg.mp4?raw=true",
-        "Stray Cats 'Double Talkin' Baby'-AMwYnGyh_PI.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20'Double%20Talkin'%20Baby'-AMwYnGyh_PI.mp4?raw=true",
-        "Stray Cats - Runaway Boys-SveJCGB09GU.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20-%20Runaway%20Boys-SveJCGB09GU.mp4?raw=true",
-        "Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20-%20Stray%20Cat%20Strut%20(Official%20Video)-mbAyj1h9vI0.mp4?raw=true",
-        "TE QUEDASTE SOLA    CONJUNTO PRIMAVERA.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/TE%20QUEDASTE%20SOLA%20%20%20%20CONJUNTO%20PRIMAVERA.mp4?raw=true",
-        "THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/THE%20HOLY%20MESS%20-%20'SPENCER%20REID'-k52xa-LZy_A.mp4?raw=true",
-        "TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/TOTAL%20CHAOS%20-%20HORROR%20VISIONS-1I1zPgcT9jI.mp4?raw=true",
-        "Te He Dejado De Querer - Conjunto Primavera.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Te%20He%20Dejado%20De%20Querer%20-%20Conjunto%20Primavera.mp4?raw=true",
-        "Telic - INVADE (Prod. Ronny J) ft. KotyKillem & TrippyThaKid [Official Audio]-e1pKT5Ia07c.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Telic%20-%20INVADE%20(Prod.%20Ronny%20J)%20ft.%20KotyKillem%20%26%20TrippyThaKid%20%5BOfficial%20Audio%5D-e1pKT5Ia07c.mp4?raw=true",
-        "The Best Of Me-tq3497mpQlg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Best%20Of%20Me-tq3497mpQlg.mp4?raw=true",
-        "The Chemical Brothers - Get Yourself High-cYXI344Siew.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Chemical%20Brothers%20-%20Get%20Yourself%20High-cYXI344Siew.mp4?raw=true",
-        "The Cure - Halo with lyrics and subs.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Cure%20-%20Halo%20with%20lyrics%20and%20subs.mp4?raw=true",
-        "The End Of A Love Affair (Remastered)-NdhoQA5jYyU.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20End%20Of%20A%20Love%20Affair%20(Remastered)-NdhoQA5jYyU.mp4?raw=true",
-        "The End Of The Line-Hdil-F6B1gk.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20End%20Of%20The%20Line-Hdil-F6B1gk.mp4?raw=true",
-        "The Good Life - Lovers Need Lawyers [Official Music Video].mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Good%20Life%20-%20Lovers%20Need%20Lawyers%20%5BOfficial%20Music%20Video%5D.mp4?raw=true",
-        "The Growlers - .mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Growlers%20-%20.mp4?raw=true",
-        "The Impact Of Reason-a0VYlpzYASo.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Impact%20Of%20Reason-a0VYlpzYASo.mp4?raw=true",
-        "The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jam%20-%20Away%20From%20The%20Numbers-Gm4l3dPFFBk.mp4?raw=true",
-        "The Jam - When You're Young-GO-3oXkZwPg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jam%20-%20When%20You're%20Young-GO-3oXkZwPg.mp4?raw=true",
-        "The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jimi%20Hendrix%20Experience%20-%20Voodoo%20Child%20(Slight%20Return)%20(Live%20In%20Maui%2C%201970)-qFfnlYbFEiE.mp4?raw=true",
-        "The Man Who Never Lied-EwUiqHDpUks.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Man%20Who%20Never%20Lied-EwUiqHDpUks.mp4?raw=true",
-        "The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta%20-%20Drunkship%20of%20Lanterns-fE6YN9VcPPA.mp4?raw=true",
-        "The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta%20-%20Son%20et%20Lumiere%20-%20Inertiatic%20Esp%20subtitulada-VcL5sfl4H1w.mp4?raw=true",
-        "The Mars Volta-Eriatarka-KQDcrFVN8mk.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta-Eriatarka-KQDcrFVN8mk.mp4?raw=true",
-        "The National - Fake Empire-KehwyWmXr3U.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20National%20-%20Fake%20Empire-KehwyWmXr3U.mp4?raw=true",
-        "The Ocean Blue - Ballerina Out Of Control (Video)-2FJF4Swq_PU.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Ocean%20Blue%20-%20Ballerina%20Out%20Of%20Control%20(Video)-2FJF4Swq_PU.mp4?raw=true",
-        "The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Ocean%20Blue%20-%20Ice%20Skating%20at%20Night-OuepJp9raLo.mp4?raw=true",
-        "The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Pointer%20Sisters-I%2Cm%20So%20Excited-2002-sS6eUIpwwds.mp4?raw=true",
-        "The Residents  - Troubled Man-oCmrpJhDlXg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20%20-%20Troubled%20Man-oCmrpJhDlXg.mp4?raw=true",
-        "The Residents -  End of Home-PP1tVGaPMCc.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20%20End%20of%20Home-PP1tVGaPMCc.mp4?raw=true",
-        "The Residents - Amber-GFHs3Wzd19U.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Amber-GFHs3Wzd19U.mp4?raw=true",
-        "The Residents - LaLa-8vk3BSuwtEM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20LaLa-8vk3BSuwtEM.mp4?raw=true",
-        "The Residents - Loneliness-P3U5CQ8N8TY.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Loneliness-P3U5CQ8N8TY.mp4?raw=true",
-        "The Residents - Love Is...-UwfE03dfco0.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Love%20Is...-UwfE03dfco0.mp4?raw=true",
-        "The Residents - Picnic Boy-mFpnptcqtkg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Picnic%20Boy-mFpnptcqtkg.mp4?raw=true",
-        "The Residents - Rest Aria-24qySJQjIdE.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Rest%20Aria-24qySJQjIdE.mp4?raw=true",
-        "The Residents - Smelly Tongues-mUxN4gyarEw.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Smelly%20Tongues-mUxN4gyarEw.mp4?raw=true",
-        "The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20The%20Coming%20Of%20The%20Crow-ljQ51AVB_DU.mp4?raw=true",
-        "The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20The%20Talk%20Of%20Creatures-HUCwWQMt2_o.mp4?raw=true",
-        "The Residents - When We Were Young-WnDCek4Y-_Q.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20When%20We%20Were%20Young-WnDCek4Y-_Q.mp4?raw=true",
-        "The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Shadows%20-%20The%20Rise%20And%20Fall%20of%20Flingel%20Bunt-g9SSw6o3sOY.mp4?raw=true",
-        "The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Stray%20Cats%20-%20Rumble%20In%20Brighton-eiq0hKW39rk.mp4?raw=true",
-        "The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Transplants%20-%20D.R.E.A.M.-O5YeeflY_Jc.mp4?raw=true",
-        "The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Transplants%20-%20Sad%20But%20True%20Music%20Video-YyAZ9WnAaH8.mp4?raw=true",
-        "The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Vaughan%20Brothers%20-%20Good%20Texan-DA_V0W3qtMY.mp4?raw=true",
-        "The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Weeknd%20-%20Call%20Out%20My%20Name%20(Official%20Video)-M4ZoCHID9GI.mp4?raw=true",
-        "The World Has Turned And Left Me Here-sRfu94lOEPo.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20World%20Has%20Turned%20And%20Left%20Me%20Here-sRfu94lOEPo.mp4?raw=true",
-        "The mars volta - Miranda That Ghost Just Isn't Holy Anymore-BxTTg0gJquM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20mars%20volta%20-%20Miranda%20That%20Ghost%20Just%20Isn't%20Holy%20Anymore-BxTTg0gJquM.mp4?raw=true",
-        "Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thelonious%20Monk%20Quartet%20-%20'Round%20Midnight--yg7aZpIXRI.mp4?raw=true",
-        "Therion   Quetzalcoatl subtitulos en espa\u00f1ol-L4ePI1zkkyQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Therion%20%20%20Quetzalcoatl%20subtitulos%20en%20espa%C3%B1ol-L4ePI1zkkyQ.mp4?raw=true",
-        "They Call Me Guitar Hurricane (Live at Steamboat 1874, Austin, TX - April 1980)-J8BD-Veseo0.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/They%20Call%20Me%20Guitar%20Hurricane%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-J8BD-Veseo0.mp4?raw=true",
-        "They Might Be Giants - Istanbul _Sub.Espa\u00f1ol-BX6eaRwr0sg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/They%20Might%20Be%20Giants%20-%20Istanbul%20_Sub.Espa%C3%B1ol-BX6eaRwr0sg.mp4?raw=true",
-        "Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thirteen%20Women%20-%20Bill%20Haley%20and%20his%20Comets-hOSGEEswmqQ.mp4?raw=true",
-        "This Cocaine Makes Me Feel Like I'm On This Song-oaDnuExc1sI.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/This%20Cocaine%20Makes%20Me%20Feel%20Like%20I'm%20On%20This%20Song-oaDnuExc1sI.mp4?raw=true",
-        "Tin Pan Alley (AKA Roughest Place In Town)-xuYWhsjFpNM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tin%20Pan%20Alley%20(AKA%20Roughest%20Place%20In%20Town)-xuYWhsjFpNM.mp4?raw=true",
-        "Todo a cien-PcOL1w_nxRY.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todo%20a%20cien-PcOL1w_nxRY.mp4?raw=true",
-        "Todos Tus Muertos - Adelita (Tu Alma Mia)-IpDMqlkfTqc.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Adelita%20(Tu%20Alma%20Mia)-IpDMqlkfTqc.mp4?raw=true",
-        "Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Alerta%20Guerrillas%20(Dale%20Aborigen%201994)-JwY6ZvEQejQ.mp4?raw=true",
-        "Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Hijo%20Nuestro-BVJ8gavk_3g.mp4?raw=true",
-        "Tomando Los Golpes-VJicksiGFzk.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tomando%20Los%20Golpes-VJicksiGFzk.mp4?raw=true",
-        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Too%20Hip%2C%20Gotta%20Go%20-%20Stray%20Cats-ZtHqMtdutZc.mp4?raw=true",
-        "Traficando Rimas-jgRaGy9b35o.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Traficando%20Rimas-jgRaGy9b35o.mp4?raw=true",
-        "Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tragatelo-%20angustia%20y%20esperanza-9I0w3bXH5lg.mp4?raw=true",
-        "Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal%20-%20Arboleda%20de%20Ahorcados%20(audio%20oficial)-3KGN4EM8B0A.mp4?raw=true",
-        "Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal%20-%20El%20Llanto%20del%20Paraiso%20(audio%20oficial)-HLRLpoRbyxc.mp4?raw=true",
-        "Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20'Tall%20Cans%20In%20The%20Air'%20(Full%20Album%20Stream)-CB74K0AR-gU.mp4?raw=true",
-        "Transplants - Diamonds & Guns-TuWuoOX0yis.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20Diamonds%20%26%20Guns-TuWuoOX0yis.mp4?raw=true",
-        "Transplants - One Seventeen-REZTTW6Surs.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20One%20Seventeen-REZTTW6Surs.mp4?raw=true",
-        "Transplants - We Trusted You--sKGEWXjbEM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20We%20Trusted%20You--sKGEWXjbEM.mp4?raw=true",
-        "Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20What%20I%20Can't%20Describe%20(Official%20Video)-LQ08RYhoNYQ.mp4?raw=true",
-        "Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Can%20A%20Drummer%20Get%20Some%20(Remix)%20ft.%20Lil%20Wayne%2C%20Rick%20Ross%2C%20Swizz%20Beatz%2C%20Game-TZCXqL1ce4w.mp4?raw=true",
-        "Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Jump%20Down%20ft.%20The%20Cool%20Kids-aJV5NaBQiig.mp4?raw=true",
-        "Travis Barker - Let's Go ft. Yelawolf, Twista, Busta Rhymes, Lil Jon-UWt1y8tSXHE.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Let's%20Go%20ft.%20Yelawolf%2C%20Twista%2C%20Busta%20Rhymes%2C%20Lil%20Jon-UWt1y8tSXHE.mp4?raw=true",
-        "Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Corey%20Taylor%20-%20On%20My%20Own-Q2alvAK36eM.mp4?raw=true",
-        "Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Kid%20Cudi%20-%20Cool%20Head-KeG9ox_czyw.mp4?raw=true",
-        "Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Paul%20Wall%2C%20Jay%20Rock%20%26%20Kurupt%20-%20Don't%20Fuck%20With%20Me-KzgMs_jZOJQ.mp4?raw=true",
-        "Travis Barker feat. Snoop, E-40, Ludacris & Dev - Knockin'-3O45AWP7MXw.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Snoop%2C%20E-40%2C%20Ludacris%20%26%20Dev%20-%20Knockin'-3O45AWP7MXw.mp4?raw=true",
-        "Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Trio%20los%20Panchos%20Me%20voy%20pal%20pueblo-kZfjoGJm4ZY.mp4?raw=true",
-        "Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Troye%20Sivan%20-%20Lucky%20Strike%20(Official%20Video)--QsYn0j-7JQ.mp4?raw=true",
-        "Tu Paz - LEAD  Ft.Cash Luna, Lowsan Melgar, Kim Richards, Evan Craft,  Madiel Lara, y Musiko....-5T2cSoRUP54.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu%20Paz%20-%20LEAD%20%20Ft.Cash%20Luna%2C%20Lowsan%20Melgar%2C%20Kim%20Richards%2C%20Evan%20Craft%2C%20%20Madiel%20Lara%2C%20y%20Musiko....-5T2cSoRUP54.mp4?raw=true",
-        "Tu Sucia Realidad-cVfTUJ0wrmM.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu%20Sucia%20Realidad-cVfTUJ0wrmM.mp4?raw=true",
-        "Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tyga%20-%20Faded%20(Official%20Music%20Video)%20(Explicit)%20ft.%20Lil%20Wayne-LbouTdwOrVw.mp4?raw=true"
+        "Stevie Ray Vaughan & Double Trouble - Change It (Video)-TMY9Wrh1oPA.mp4": {
+            "image": "https://i.ytimg.com/vi/TMY9Wrh1oPA/hqdefault.jpg",
+            "size": 13.261687278747559,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Change%20It%20(Video)-TMY9Wrh1oPA.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - Couldn't Stand the Weather (Video)-nO23B5C_Mcw.mp4": {
+            "image": "https://i.ytimg.com/vi/nO23B5C_Mcw/hqdefault.jpg",
+            "size": 22.85133171081543,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20Couldn't%20Stand%20the%20Weather%20(Video)-nO23B5C_Mcw.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan & Double Trouble - The House Is Rockin' (Live From Austin, TX)-vYb0ZylEMbg.mp4": {
+            "image": "https://i.ytimg.com/vi/vYb0ZylEMbg/hqdefault.jpg",
+            "size": 8.665133476257324,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20%26%20Double%20Trouble%20-%20The%20House%20Is%20Rockin'%20(Live%20From%20Austin%2C%20TX)-vYb0ZylEMbg.mp4?raw=true"
+        },
+        "Stevie Ray Vaughan - Live - MTV Unplugged 1990-FQ_DdgxRSak.mp4": {
+            "image": "https://i.ytimg.com/vi/FQ_DdgxRSak/hqdefault.jpg",
+            "size": 27.406797409057617,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stevie%20Ray%20Vaughan%20-%20Live%20-%20MTV%20Unplugged%201990-FQ_DdgxRSak.mp4?raw=true"
+        },
+        "Stone Temple Pilots - Interstate Love Song (Official HD Music Video)-yjJL9DGU7Gg.mp4": {
+            "image": "https://i.ytimg.com/vi/yjJL9DGU7Gg/hqdefault.jpg",
+            "size": 14.775209426879883,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stone%20Temple%20Pilots%20-%20Interstate%20Love%20Song%20(Official%20HD%20Music%20Video)-yjJL9DGU7Gg.mp4?raw=true"
+        },
+        "Stray Cats 'Double Talkin' Baby'-AMwYnGyh_PI.mp4": {
+            "image": "https://i.ytimg.com/vi/AMwYnGyh_PI/hqdefault.jpg",
+            "size": 4.9001874923706055,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20'Double%20Talkin'%20Baby'-AMwYnGyh_PI.mp4?raw=true"
+        },
+        "Stray Cats - Runaway Boys-SveJCGB09GU.mp4": {
+            "image": "https://i.ytimg.com/vi/SveJCGB09GU/hqdefault.jpg",
+            "size": 13.973004341125488,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20-%20Runaway%20Boys-SveJCGB09GU.mp4?raw=true"
+        },
+        "Stray Cats - Stray Cat Strut (Official Video)-mbAyj1h9vI0.mp4": {
+            "image": "https://i.ytimg.com/vi/mbAyj1h9vI0/hqdefault.jpg",
+            "size": 15.82105827331543,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stray%20Cats%20-%20Stray%20Cat%20Strut%20(Official%20Video)-mbAyj1h9vI0.mp4?raw=true"
+        },
+        "TE QUEDASTE SOLA    CONJUNTO PRIMAVERA.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 12.677087783813477,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/TE%20QUEDASTE%20SOLA%20%20%20%20CONJUNTO%20PRIMAVERA.mp4?raw=true"
+        },
+        "THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 8.747194290161133,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/THE%20HOLY%20MESS%20-%20'SPENCER%20REID'-k52xa-LZy_A.mp4?raw=true"
+        },
+        "TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4": {
+            "image": "https://i.ytimg.com/vi/1I1zPgcT9jI/hqdefault.jpg",
+            "size": 4.713631629943848,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/TOTAL%20CHAOS%20-%20HORROR%20VISIONS-1I1zPgcT9jI.mp4?raw=true"
+        },
+        "Te He Dejado De Querer - Conjunto Primavera.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 8.65815258026123,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Te%20He%20Dejado%20De%20Querer%20-%20Conjunto%20Primavera.mp4?raw=true"
+        },
+        "Telic - INVADE (Prod. Ronny J) ft. KotyKillem & TrippyThaKid [Official Audio]-e1pKT5Ia07c.mp4": {
+            "image": "https://i.ytimg.com/vi/e1pKT5Ia07c/hqdefault.jpg",
+            "size": 6.616189002990723,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Telic%20-%20INVADE%20(Prod.%20Ronny%20J)%20ft.%20KotyKillem%20%26%20TrippyThaKid%20%5BOfficial%20Audio%5D-e1pKT5Ia07c.mp4?raw=true"
+        },
+        "The Best Of Me-tq3497mpQlg.mp4": {
+            "image": "https://i.ytimg.com/vi/tq3497mpQlg/hqdefault.jpg",
+            "size": 5.3267669677734375,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Best%20Of%20Me-tq3497mpQlg.mp4?raw=true"
+        },
+        "The Chemical Brothers - Get Yourself High-cYXI344Siew.mp4": {
+            "image": "https://i.ytimg.com/vi/cYXI344Siew/hqdefault.jpg",
+            "size": 13.466890335083008,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Chemical%20Brothers%20-%20Get%20Yourself%20High-cYXI344Siew.mp4?raw=true"
+        },
+        "The Cure - Halo with lyrics and subs.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 12.604018211364746,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Cure%20-%20Halo%20with%20lyrics%20and%20subs.mp4?raw=true"
+        },
+        "The End Of A Love Affair (Remastered)-NdhoQA5jYyU.mp4": {
+            "image": "https://i.ytimg.com/vi/NdhoQA5jYyU/hqdefault.jpg",
+            "size": 7.432655334472656,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20End%20Of%20A%20Love%20Affair%20(Remastered)-NdhoQA5jYyU.mp4?raw=true"
+        },
+        "The End Of The Line-Hdil-F6B1gk.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 19.73052406311035,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20End%20Of%20The%20Line-Hdil-F6B1gk.mp4?raw=true"
+        },
+        "The Good Life - Lovers Need Lawyers [Official Music Video].mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 6.894878387451172,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Good%20Life%20-%20Lovers%20Need%20Lawyers%20%5BOfficial%20Music%20Video%5D.mp4?raw=true"
+        },
+        "The Growlers - .mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 18.78126621246338,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Growlers%20-%20.mp4?raw=true"
+        },
+        "The Impact Of Reason-a0VYlpzYASo.mp4": {
+            "image": "https://i.ytimg.com/vi/a0VYlpzYASo/hqdefault.jpg",
+            "size": 8.45265007019043,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Impact%20Of%20Reason-a0VYlpzYASo.mp4?raw=true"
+        },
+        "The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4": {
+            "image": "https://i.ytimg.com/vi/Gm4l3dPFFBk/hqdefault.jpg",
+            "size": 6.833495140075684,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jam%20-%20Away%20From%20The%20Numbers-Gm4l3dPFFBk.mp4?raw=true"
+        },
+        "The Jam - When You're Young-GO-3oXkZwPg.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 11.793097496032715,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jam%20-%20When%20You're%20Young-GO-3oXkZwPg.mp4?raw=true"
+        },
+        "The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4": {
+            "image": "https://i.ytimg.com/vi/qFfnlYbFEiE/hqdefault.jpg",
+            "size": 26.812488555908203,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Jimi%20Hendrix%20Experience%20-%20Voodoo%20Child%20(Slight%20Return)%20(Live%20In%20Maui%2C%201970)-qFfnlYbFEiE.mp4?raw=true"
+        },
+        "The Man Who Never Lied-EwUiqHDpUks.mp4": {
+            "image": "https://i.ytimg.com/vi/EwUiqHDpUks/hqdefault.jpg",
+            "size": 8.64660930633545,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Man%20Who%20Never%20Lied-EwUiqHDpUks.mp4?raw=true"
+        },
+        "The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4": {
+            "image": "https://i.ytimg.com/vi/fE6YN9VcPPA/hqdefault.jpg",
+            "size": 11.25770092010498,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta%20-%20Drunkship%20of%20Lanterns-fE6YN9VcPPA.mp4?raw=true"
+        },
+        "The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4": {
+            "image": "https://i.ytimg.com/vi/VcL5sfl4H1w/hqdefault.jpg",
+            "size": 7.626861572265625,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta%20-%20Son%20et%20Lumiere%20-%20Inertiatic%20Esp%20subtitulada-VcL5sfl4H1w.mp4?raw=true"
+        },
+        "The Mars Volta-Eriatarka-KQDcrFVN8mk.mp4": {
+            "image": "https://i.ytimg.com/vi/KQDcrFVN8mk/hqdefault.jpg",
+            "size": 10.119962692260742,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Mars%20Volta-Eriatarka-KQDcrFVN8mk.mp4?raw=true"
+        },
+        "The National - Fake Empire-KehwyWmXr3U.mp4": {
+            "image": "https://i.ytimg.com/vi/KehwyWmXr3U/hqdefault.jpg",
+            "size": 7.084216117858887,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20National%20-%20Fake%20Empire-KehwyWmXr3U.mp4?raw=true"
+        },
+        "The Ocean Blue - Ballerina Out Of Control (Video)-2FJF4Swq_PU.mp4": {
+            "image": "https://i.ytimg.com/vi/2FJF4Swq_PU/hqdefault.jpg",
+            "size": 13.456154823303223,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Ocean%20Blue%20-%20Ballerina%20Out%20Of%20Control%20(Video)-2FJF4Swq_PU.mp4?raw=true"
+        },
+        "The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4": {
+            "image": "https://i.ytimg.com/vi/OuepJp9raLo/hqdefault.jpg",
+            "size": 16.424248695373535,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Ocean%20Blue%20-%20Ice%20Skating%20at%20Night-OuepJp9raLo.mp4?raw=true"
+        },
+        "The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4": {
+            "image": "https://i.ytimg.com/vi/sS6eUIpwwds/hqdefault.jpg",
+            "size": 26.22789192199707,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Pointer%20Sisters-I%2Cm%20So%20Excited-2002-sS6eUIpwwds.mp4?raw=true"
+        },
+        "The Residents  - Troubled Man-oCmrpJhDlXg.mp4": {
+            "image": "https://i.ytimg.com/vi/oCmrpJhDlXg/hqdefault.jpg",
+            "size": 5.366315841674805,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20%20-%20Troubled%20Man-oCmrpJhDlXg.mp4?raw=true"
+        },
+        "The Residents -  End of Home-PP1tVGaPMCc.mp4": {
+            "image": "https://i.ytimg.com/vi/PP1tVGaPMCc/hqdefault.jpg",
+            "size": 3.6396780014038086,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20%20End%20of%20Home-PP1tVGaPMCc.mp4?raw=true"
+        },
+        "The Residents - Amber-GFHs3Wzd19U.mp4": {
+            "image": "https://i.ytimg.com/vi/GFHs3Wzd19U/hqdefault.jpg",
+            "size": 2.832082748413086,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Amber-GFHs3Wzd19U.mp4?raw=true"
+        },
+        "The Residents - LaLa-8vk3BSuwtEM.mp4": {
+            "image": "https://i.ytimg.com/vi/8vk3BSuwtEM/hqdefault.jpg",
+            "size": 3.0448226928710938,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20LaLa-8vk3BSuwtEM.mp4?raw=true"
+        },
+        "The Residents - Loneliness-P3U5CQ8N8TY.mp4": {
+            "image": "https://i.ytimg.com/vi/P3U5CQ8N8TY/hqdefault.jpg",
+            "size": 3.091716766357422,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Loneliness-P3U5CQ8N8TY.mp4?raw=true"
+        },
+        "The Residents - Love Is...-UwfE03dfco0.mp4": {
+            "image": "https://i.ytimg.com/vi/UwfE03dfco0/hqdefault.jpg",
+            "size": 4.474908828735352,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Love%20Is...-UwfE03dfco0.mp4?raw=true"
+        },
+        "The Residents - Picnic Boy-mFpnptcqtkg.mp4": {
+            "image": "https://i.ytimg.com/vi/mFpnptcqtkg/hqdefault.jpg",
+            "size": 4.402469635009766,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Picnic%20Boy-mFpnptcqtkg.mp4?raw=true"
+        },
+        "The Residents - Rest Aria-24qySJQjIdE.mp4": {
+            "image": "https://i.ytimg.com/vi/24qySJQjIdE/hqdefault.jpg",
+            "size": 6.371742248535156,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Rest%20Aria-24qySJQjIdE.mp4?raw=true"
+        },
+        "The Residents - Smelly Tongues-mUxN4gyarEw.mp4": {
+            "image": "https://i.ytimg.com/vi/mUxN4gyarEw/hqdefault.jpg",
+            "size": 1.688516616821289,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20Smelly%20Tongues-mUxN4gyarEw.mp4?raw=true"
+        },
+        "The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4": {
+            "image": "https://i.ytimg.com/vi/ljQ51AVB_DU/hqdefault.jpg",
+            "size": 2.8623342514038086,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20The%20Coming%20Of%20The%20Crow-ljQ51AVB_DU.mp4?raw=true"
+        },
+        "The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4": {
+            "image": "https://i.ytimg.com/vi/HUCwWQMt2_o/hqdefault.jpg",
+            "size": 4.159758567810059,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20The%20Talk%20Of%20Creatures-HUCwWQMt2_o.mp4?raw=true"
+        },
+        "The Residents - When We Were Young-WnDCek4Y-_Q.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 4.003140449523926,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Residents%20-%20When%20We%20Were%20Young-WnDCek4Y-_Q.mp4?raw=true"
+        },
+        "The Shadows - The Rise And Fall of Flingel Bunt-g9SSw6o3sOY.mp4": {
+            "image": "https://i.ytimg.com/vi/g9SSw6o3sOY/hqdefault.jpg",
+            "size": 4.938320159912109,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Shadows%20-%20The%20Rise%20And%20Fall%20of%20Flingel%20Bunt-g9SSw6o3sOY.mp4?raw=true"
+        },
+        "The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4": {
+            "image": "https://i.ytimg.com/vi/eiq0hKW39rk/hqdefault.jpg",
+            "size": 5.119672775268555,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Stray%20Cats%20-%20Rumble%20In%20Brighton-eiq0hKW39rk.mp4?raw=true"
+        },
+        "The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4": {
+            "image": "https://i.ytimg.com/vi/O5YeeflY_Jc/hqdefault.jpg",
+            "size": 9.513642311096191,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Transplants%20-%20D.R.E.A.M.-O5YeeflY_Jc.mp4?raw=true"
+        },
+        "The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4": {
+            "image": "https://i.ytimg.com/vi/YyAZ9WnAaH8/hqdefault.jpg",
+            "size": 11.409920692443848,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Transplants%20-%20Sad%20But%20True%20Music%20Video-YyAZ9WnAaH8.mp4?raw=true"
+        },
+        "The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4": {
+            "image": "https://i.ytimg.com/vi/DA_V0W3qtMY/hqdefault.jpg",
+            "size": 16.70432186126709,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Vaughan%20Brothers%20-%20Good%20Texan-DA_V0W3qtMY.mp4?raw=true"
+        },
+        "The Weeknd - Call Out My Name (Official Video)-M4ZoCHID9GI.mp4": {
+            "image": "https://i.ytimg.com/vi/M4ZoCHID9GI/hqdefault.jpg",
+            "size": 12.104583740234375,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20Weeknd%20-%20Call%20Out%20My%20Name%20(Official%20Video)-M4ZoCHID9GI.mp4?raw=true"
+        },
+        "The World Has Turned And Left Me Here-sRfu94lOEPo.mp4": {
+            "image": "https://i.ytimg.com/vi/sRfu94lOEPo/hqdefault.jpg",
+            "size": 6.727060317993164,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20World%20Has%20Turned%20And%20Left%20Me%20Here-sRfu94lOEPo.mp4?raw=true"
+        },
+        "The mars volta - Miranda That Ghost Just Isn't Holy Anymore-BxTTg0gJquM.mp4": {
+            "image": "https://i.ytimg.com/vi/BxTTg0gJquM/hqdefault.jpg",
+            "size": 5.425252914428711,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The%20mars%20volta%20-%20Miranda%20That%20Ghost%20Just%20Isn't%20Holy%20Anymore-BxTTg0gJquM.mp4?raw=true"
+        },
+        "Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 17.022042274475098,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thelonious%20Monk%20Quartet%20-%20'Round%20Midnight--yg7aZpIXRI.mp4?raw=true"
+        },
+        "Therion   Quetzalcoatl subtitulos en espa\u00f1ol-L4ePI1zkkyQ.mp4": {
+            "image": "https://i.ytimg.com/vi/L4ePI1zkkyQ/hqdefault.jpg",
+            "size": 10.093080520629883,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Therion%20%20%20Quetzalcoatl%20subtitulos%20en%20espa%C3%B1ol-L4ePI1zkkyQ.mp4?raw=true"
+        },
+        "They Call Me Guitar Hurricane (Live at Steamboat 1874, Austin, TX - April 1980)-J8BD-Veseo0.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 7.142345428466797,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/They%20Call%20Me%20Guitar%20Hurricane%20(Live%20at%20Steamboat%201874%2C%20Austin%2C%20TX%20-%20April%201980)-J8BD-Veseo0.mp4?raw=true"
+        },
+        "They Might Be Giants - Istanbul _Sub.Espa\u00f1ol-BX6eaRwr0sg.mp4": {
+            "image": "https://i.ytimg.com/vi/BX6eaRwr0sg/hqdefault.jpg",
+            "size": 5.680793762207031,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/They%20Might%20Be%20Giants%20-%20Istanbul%20_Sub.Espa%C3%B1ol-BX6eaRwr0sg.mp4?raw=true"
+        },
+        "Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4": {
+            "image": "https://i.ytimg.com/vi/hOSGEEswmqQ/hqdefault.jpg",
+            "size": 4.834733963012695,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thirteen%20Women%20-%20Bill%20Haley%20and%20his%20Comets-hOSGEEswmqQ.mp4?raw=true"
+        },
+        "This Cocaine Makes Me Feel Like I'm On This Song-oaDnuExc1sI.mp4": {
+            "image": "https://i.ytimg.com/vi/oaDnuExc1sI/hqdefault.jpg",
+            "size": 1.943699836730957,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/This%20Cocaine%20Makes%20Me%20Feel%20Like%20I'm%20On%20This%20Song-oaDnuExc1sI.mp4?raw=true"
+        },
+        "Tin Pan Alley (AKA Roughest Place In Town)-xuYWhsjFpNM.mp4": {
+            "image": "https://i.ytimg.com/vi/xuYWhsjFpNM/hqdefault.jpg",
+            "size": 11.262996673583984,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tin%20Pan%20Alley%20(AKA%20Roughest%20Place%20In%20Town)-xuYWhsjFpNM.mp4?raw=true"
+        },
+        "Todo a cien-PcOL1w_nxRY.mp4": {
+            "image": "https://i.ytimg.com/vi/PcOL1w_nxRY/hqdefault.jpg",
+            "size": 9.199601173400879,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todo%20a%20cien-PcOL1w_nxRY.mp4?raw=true"
+        },
+        "Todos Tus Muertos - Adelita (Tu Alma Mia)-IpDMqlkfTqc.mp4": {
+            "image": "https://i.ytimg.com/vi/IpDMqlkfTqc/hqdefault.jpg",
+            "size": 10.814650535583496,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Adelita%20(Tu%20Alma%20Mia)-IpDMqlkfTqc.mp4?raw=true"
+        },
+        "Todos Tus Muertos - Alerta Guerrillas (Dale Aborigen 1994)-JwY6ZvEQejQ.mp4": {
+            "image": "https://i.ytimg.com/vi/JwY6ZvEQejQ/hqdefault.jpg",
+            "size": 5.897859573364258,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Alerta%20Guerrillas%20(Dale%20Aborigen%201994)-JwY6ZvEQejQ.mp4?raw=true"
+        },
+        "Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4": {
+            "image": "https://i.ytimg.com/vi/BVJ8gavk_3g/hqdefault.jpg",
+            "size": 10.871726036071777,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos%20Tus%20Muertos%20-%20Hijo%20Nuestro-BVJ8gavk_3g.mp4?raw=true"
+        },
+        "Tomando Los Golpes-VJicksiGFzk.mp4": {
+            "image": "https://i.ytimg.com/vi/VJicksiGFzk/hqdefault.jpg",
+            "size": 1.7505474090576172,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tomando%20Los%20Golpes-VJicksiGFzk.mp4?raw=true"
+        },
+        "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4": {
+            "image": "https://i.ytimg.com/vi/ZtHqMtdutZc/hqdefault.jpg",
+            "size": 6.606255531311035,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Too%20Hip%2C%20Gotta%20Go%20-%20Stray%20Cats-ZtHqMtdutZc.mp4?raw=true"
+        },
+        "Traficando Rimas-jgRaGy9b35o.mp4": {
+            "image": "https://i.ytimg.com/vi/jgRaGy9b35o/hqdefault.jpg",
+            "size": 9.995291709899902,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Traficando%20Rimas-jgRaGy9b35o.mp4?raw=true"
+        },
+        "Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4": {
+            "image": "https://i.ytimg.com/vi/9I0w3bXH5lg/hqdefault.jpg",
+            "size": 1.6041040420532227,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tragatelo-%20angustia%20y%20esperanza-9I0w3bXH5lg.mp4?raw=true"
+        },
+        "Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4": {
+            "image": "https://i.ytimg.com/vi/3KGN4EM8B0A/hqdefault.jpg",
+            "size": 9.80686092376709,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal%20-%20Arboleda%20de%20Ahorcados%20(audio%20oficial)-3KGN4EM8B0A.mp4?raw=true"
+        },
+        "Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4": {
+            "image": "https://i.ytimg.com/vi/HLRLpoRbyxc/hqdefault.jpg",
+            "size": 8.94707202911377,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal%20-%20El%20Llanto%20del%20Paraiso%20(audio%20oficial)-HLRLpoRbyxc.mp4?raw=true"
+        },
+        "Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 8.97243881225586,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20'Tall%20Cans%20In%20The%20Air'%20(Full%20Album%20Stream)-CB74K0AR-gU.mp4?raw=true"
+        },
+        "Transplants - Diamonds & Guns-TuWuoOX0yis.mp4": {
+            "image": "https://i.ytimg.com/vi/TuWuoOX0yis/hqdefault.jpg",
+            "size": 21.839561462402344,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20Diamonds%20%26%20Guns-TuWuoOX0yis.mp4?raw=true"
+        },
+        "Transplants - One Seventeen-REZTTW6Surs.mp4": {
+            "image": "https://i.ytimg.com/vi/REZTTW6Surs/hqdefault.jpg",
+            "size": 2.5051698684692383,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20One%20Seventeen-REZTTW6Surs.mp4?raw=true"
+        },
+        "Transplants - We Trusted You--sKGEWXjbEM.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 5.760561943054199,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20We%20Trusted%20You--sKGEWXjbEM.mp4?raw=true"
+        },
+        "Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4": {
+            "image": "https://i.ytimg.com/vi/LQ08RYhoNYQ/hqdefault.jpg",
+            "size": 21.21548557281494,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants%20-%20What%20I%20Can't%20Describe%20(Official%20Video)-LQ08RYhoNYQ.mp4?raw=true"
+        },
+        "Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4": {
+            "image": "https://i.ytimg.com/vi/TZCXqL1ce4w/hqdefault.jpg",
+            "size": 23.43153667449951,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Can%20A%20Drummer%20Get%20Some%20(Remix)%20ft.%20Lil%20Wayne%2C%20Rick%20Ross%2C%20Swizz%20Beatz%2C%20Game-TZCXqL1ce4w.mp4?raw=true"
+        },
+        "Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4": {
+            "image": "https://i.ytimg.com/vi/aJV5NaBQiig/hqdefault.jpg",
+            "size": 15.940881729125977,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Jump%20Down%20ft.%20The%20Cool%20Kids-aJV5NaBQiig.mp4?raw=true"
+        },
+        "Travis Barker - Let's Go ft. Yelawolf, Twista, Busta Rhymes, Lil Jon-UWt1y8tSXHE.mp4": {
+            "image": "https://i.ytimg.com/vi/UWt1y8tSXHE/hqdefault.jpg",
+            "size": 13.958878517150879,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20-%20Let's%20Go%20ft.%20Yelawolf%2C%20Twista%2C%20Busta%20Rhymes%2C%20Lil%20Jon-UWt1y8tSXHE.mp4?raw=true"
+        },
+        "Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4": {
+            "image": "https://i.ytimg.com/vi/Q2alvAK36eM/hqdefault.jpg",
+            "size": 3.2082834243774414,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Corey%20Taylor%20-%20On%20My%20Own-Q2alvAK36eM.mp4?raw=true"
+        },
+        "Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4": {
+            "image": "https://i.ytimg.com/vi/KeG9ox_czyw/hqdefault.jpg",
+            "size": 4.652057647705078,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Kid%20Cudi%20-%20Cool%20Head-KeG9ox_czyw.mp4?raw=true"
+        },
+        "Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4": {
+            "image": "https://i.ytimg.com/vi/KzgMs_jZOJQ/hqdefault.jpg",
+            "size": 4.916133880615234,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Paul%20Wall%2C%20Jay%20Rock%20%26%20Kurupt%20-%20Don't%20Fuck%20With%20Me-KzgMs_jZOJQ.mp4?raw=true"
+        },
+        "Travis Barker feat. Snoop, E-40, Ludacris & Dev - Knockin'-3O45AWP7MXw.mp4": {
+            "image": "https://i.ytimg.com/vi/3O45AWP7MXw/hqdefault.jpg",
+            "size": 4.318333625793457,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis%20Barker%20feat.%20Snoop%2C%20E-40%2C%20Ludacris%20%26%20Dev%20-%20Knockin'-3O45AWP7MXw.mp4?raw=true"
+        },
+        "Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4": {
+            "image": "https://i.ytimg.com/vi/kZfjoGJm4ZY/hqdefault.jpg",
+            "size": 5.5878143310546875,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Trio%20los%20Panchos%20Me%20voy%20pal%20pueblo-kZfjoGJm4ZY.mp4?raw=true"
+        },
+        "Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4": {
+            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
+            "size": 15.079854011535645,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Troye%20Sivan%20-%20Lucky%20Strike%20(Official%20Video)--QsYn0j-7JQ.mp4?raw=true"
+        },
+        "Tu Paz - LEAD  Ft.Cash Luna, Lowsan Melgar, Kim Richards, Evan Craft,  Madiel Lara, y Musiko....-5T2cSoRUP54.mp4": {
+            "image": "https://i.ytimg.com/vi/5T2cSoRUP54/hqdefault.jpg",
+            "size": 6.895302772521973,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu%20Paz%20-%20LEAD%20%20Ft.Cash%20Luna%2C%20Lowsan%20Melgar%2C%20Kim%20Richards%2C%20Evan%20Craft%2C%20%20Madiel%20Lara%2C%20y%20Musiko....-5T2cSoRUP54.mp4?raw=true"
+        },
+        "Tu Sucia Realidad-cVfTUJ0wrmM.mp4": {
+            "image": "https://i.ytimg.com/vi/cVfTUJ0wrmM/hqdefault.jpg",
+            "size": 0.8271608352661133,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu%20Sucia%20Realidad-cVfTUJ0wrmM.mp4?raw=true"
+        },
+        "Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4": {
+            "image": "https://i.ytimg.com/vi/LbouTdwOrVw/hqdefault.jpg",
+            "size": 17.65232753753662,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tyga%20-%20Faded%20(Official%20Music%20Video)%20(Explicit)%20ft.%20Lil%20Wayne-LbouTdwOrVw.mp4?raw=true"
+        }
     }
 }
