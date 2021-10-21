@@ -1,8 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "id": "t",
-    "size_max": 40.72466278076172,
-    "size_mean": 9.085030396779379,
-    "size_min": 0.8271608352661133,
-    "total_size": 981.1832828521729
+    "total_size": 692.2772148437497
 }
