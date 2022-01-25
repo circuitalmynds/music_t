@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 725.9054999999998,
+    "videos": [
         "The Residents - LaLa-8vk3BSuwtEM.mp4",
         "Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4",
         "The Residents -  Easter Woman-gK8IKQqOkug.mp4",
@@ -69,7 +70,5 @@
         "The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4",
         "The Residents - When We Were Young-WnDCek4Y-_Q.mp4",
         "Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4"
-    ],
-    "id": "t",
-    "total_size": 692.2772148437497
+    ]
 }
