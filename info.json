@@ -107,6 +107,11 @@
             "size": 3.788350464
         },
         {
+            "name": "Chemical Brothers - Pioneer Skies-8iDzLlDOUio.mp4",
+            "path": "music_t/videos/Chemical Brothers - Pioneer Skies-8iDzLlDOUio.mp4",
+            "size": 5.565538304
+        },
+        {
             "name": "They Might Be Giants - Istanbul _Sub.Español-BX6eaRwr0sg.mp4",
             "path": "music_t/videos/They Might Be Giants - Istanbul _Sub.Español-BX6eaRwr0sg.mp4",
             "size": 6.099705856000001
@@ -392,5 +397,5 @@
             "size": 4.486910976
         }
     ],
-    "total_size": 827.131353088
+    "total_size": 832.6968913919999
 }
