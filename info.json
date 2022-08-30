@@ -1,481 +1,658 @@
 {
-    "available_space": true,
+    "available_space": false,
     "content": [
         {
+            "id": "qFfnlYbFEiE",
             "name": "The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4",
             "path": "t/videos/The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4",
-            "size": 28.789690368000002,
+            "size": 28.114932,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Jimi Hendrix Experience - Voodoo Child (Slight Return) (Live In Maui, 1970)-qFfnlYbFEiE.mp4?raw=true"
         },
         {
+            "id": "C4FG_xZAzsQ",
             "name": "The Mars Volta - Televators-C4FG_xZAzsQ.mp4",
             "path": "t/videos/The Mars Volta - Televators-C4FG_xZAzsQ.mp4",
-            "size": 11.357770752,
+            "size": 11.091573,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Mars Volta - Televators-C4FG_xZAzsQ.mp4?raw=true"
         },
         {
+            "id": "REZTTW6Surs",
             "name": "Transplants - One Seventeen-REZTTW6Surs.mp4",
             "path": "t/videos/Transplants - One Seventeen-REZTTW6Surs.mp4",
-            "size": 2.6899056640000003,
+            "size": 2.626861,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - One Seventeen-REZTTW6Surs.mp4?raw=true"
         },
         {
+            "id": "O5YeeflY_Jc",
             "name": "The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4",
             "path": "t/videos/The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4",
-            "size": 10.215195648,
+            "size": 9.975776999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Transplants - D.R.E.A.M.-O5YeeflY_Jc.mp4?raw=true"
         },
         {
+            "id": "kZfjoGJm4ZY",
             "name": "Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4",
             "path": "t/videos/Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4",
-            "size": 5.999869952,
+            "size": 5.859248,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Trio los Panchos Me voy pal pueblo-kZfjoGJm4ZY.mp4?raw=true"
         },
         {
+            "id": "LXLUpMdhpZY",
             "name": "Oh Romeo - Living Out A Fantasy-LXLUpMdhpZY.mp4",
             "path": "t/videos/Oh Romeo - Living Out A Fantasy-LXLUpMdhpZY.mp4",
-            "size": 5.82614528,
+            "size": 5.689595,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Oh Romeo - Living Out A Fantasy-LXLUpMdhpZY.mp4?raw=true"
         },
         {
+            "id": "5Ws4o0HalBY",
             "name": "Tolosa inauteriak - Kortatu-5Ws4o0HalBY.mp4",
             "path": "t/videos/Tolosa inauteriak - Kortatu-5Ws4o0HalBY.mp4",
-            "size": 3.4108600320000004,
+            "size": 3.330918,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tolosa inauteriak - Kortatu-5Ws4o0HalBY.mp4?raw=true"
         },
         {
+            "id": "jL3X20QP4Ts",
             "name": "The Apples - Killing-jL3X20QP4Ts.mp4",
             "path": "t/videos/The Apples - Killing-jL3X20QP4Ts.mp4",
-            "size": 6.906078208,
+            "size": 6.744217,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Apples - Killing-jL3X20QP4Ts.mp4?raw=true"
         },
         {
+            "id": "LQ08RYhoNYQ",
             "name": "Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4",
             "path": "t/videos/Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4",
-            "size": 22.779954176,
+            "size": 22.246049,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - What I Can't Describe (Official Video)-LQ08RYhoNYQ.mp4?raw=true"
         },
         {
+            "id": "zSzluF9itcw",
             "name": "The Growlers - Monotonia (Official Video)-zSzluF9itcw.mp4",
             "path": "t/videos/The Growlers - Monotonia (Official Video)-zSzluF9itcw.mp4",
-            "size": 20.16623104,
+            "size": 19.693585,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Growlers - Monotonia (Official Video)-zSzluF9itcw.mp4?raw=true"
         },
         {
+            "id": "p2AnF7mhmJg",
             "name": "Soy Un Truhan Soy Un Senor - Julio Iglesias-p2AnF7mhmJg.mp4",
             "path": "t/videos/Soy Un Truhan Soy Un Senor - Julio Iglesias-p2AnF7mhmJg.mp4",
-            "size": 5.13612288,
+            "size": 5.015745,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Soy Un Truhan Soy Un Senor - Julio Iglesias-p2AnF7mhmJg.mp4?raw=true"
         },
         {
+            "id": "VcL5sfl4H1w",
             "name": "The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4",
             "path": "t/videos/The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4",
-            "size": 8.189280256,
+            "size": 7.997344,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Mars Volta - Son et Lumiere - Inertiatic Esp subtitulada-VcL5sfl4H1w.mp4?raw=true"
         },
         {
+            "id": "DA_V0W3qtMY",
             "name": "The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4",
             "path": "t/videos/The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4",
-            "size": 17.936129024,
+            "size": 17.515750999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Vaughan Brothers - Good Texan-DA_V0W3qtMY.mp4?raw=true"
         },
         {
+            "id": "Gm4l3dPFFBk",
             "name": "The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4",
             "path": "t/videos/The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4",
-            "size": 7.337409536000001,
+            "size": 7.165439,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Jam - Away From The Numbers-Gm4l3dPFFBk.mp4?raw=true"
         },
         {
+            "id": "He5NctQPXK8",
             "name": "The Greatest Showman Cast - Tightrope (Official Audio)-He5NctQPXK8.mp4",
             "path": "t/videos/The Greatest Showman Cast - Tightrope (Official Audio)-He5NctQPXK8.mp4",
-            "size": 9.516881920000001,
+            "size": 9.29383,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Greatest Showman Cast - Tightrope (Official Audio)-He5NctQPXK8.mp4?raw=true"
         },
         {
+            "id": "3KGN4EM8B0A",
             "name": "Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4",
             "path": "t/videos/Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4",
-            "size": 10.530036736000001,
+            "size": 10.283239,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal - Arboleda de Ahorcados (audio oficial)-3KGN4EM8B0A.mp4?raw=true"
         },
         {
+            "id": "WnDCek4Y-_Q",
             "name": "The Residents - When We Were Young-WnDCek4Y-_Q.mp4",
             "path": "t/videos/The Residents - When We Were Young-WnDCek4Y-_Q.mp4",
-            "size": 4.298339328,
+            "size": 4.197597,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - When We Were Young-WnDCek4Y-_Q.mp4?raw=true"
         },
         {
+            "id": "YyAZ9WnAaH8",
             "name": "The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4",
             "path": "t/videos/The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4",
-            "size": 12.251309056,
+            "size": 11.964169,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Transplants - Sad But True Music Video-YyAZ9WnAaH8.mp4?raw=true"
         },
         {
+            "id": "mUxN4gyarEw",
             "name": "The Residents - Smelly Tongues-mUxN4gyarEw.mp4",
             "path": "t/videos/The Residents - Smelly Tongues-mUxN4gyarEw.mp4",
-            "size": 1.813030912,
+            "size": 1.770538,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - Smelly Tongues-mUxN4gyarEw.mp4?raw=true"
         },
         {
+            "id": "b7V_8u2NMRQ",
             "name": "The Relativez  - Me'chelle-b7V_8u2NMRQ.mp4",
             "path": "t/videos/The Relativez  - Me'chelle-b7V_8u2NMRQ.mp4",
-            "size": 8.402045952,
+            "size": 8.205123,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Relativez  - Me'chelle-b7V_8u2NMRQ.mp4?raw=true"
         },
         {
+            "id": "-QsYn0j-7JQ",
             "name": "Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4",
             "path": "t/videos/Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4",
-            "size": 16.191869952,
+            "size": 15.812373,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Troye Sivan - Lucky Strike (Official Video)--QsYn0j-7JQ.mp4?raw=true"
         },
         {
+            "id": "UmFFTkjs-O0",
             "name": "The Cure - Pictures Of You-UmFFTkjs-O0.mp4",
             "path": "t/videos/The Cure - Pictures Of You-UmFFTkjs-O0.mp4",
-            "size": 43.727773696,
+            "size": 42.702904,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Cure - Pictures Of You-UmFFTkjs-O0.mp4?raw=true"
         },
         {
+            "id": "24qySJQjIdE",
             "name": "The Residents - Rest Aria-24qySJQjIdE.mp4",
             "path": "t/videos/The Residents - Rest Aria-24qySJQjIdE.mp4",
-            "size": 6.841606144,
+            "size": 6.681255999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - Rest Aria-24qySJQjIdE.mp4?raw=true"
         },
         {
+            "id": "m4-I1w4_GB8",
             "name": "Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered]-m4-I1w4_GB8.mp4",
             "path": "t/videos/Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered]-m4-I1w4_GB8.mp4",
-            "size": 9.697922048,
+            "size": 9.470627,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Hugh Mundell Blessing Of Fari (with Lyrics) [Remastered]-m4-I1w4_GB8.mp4?raw=true"
         },
         {
+            "id": "TZCXqL1ce4w",
             "name": "Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4",
             "path": "t/videos/Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4",
-            "size": 25.159420928000003,
+            "size": 24.569747,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker - Can A Drummer Get Some (Remix) ft. Lil Wayne, Rick Ross, Swizz Beatz, Game-TZCXqL1ce4w.mp4?raw=true"
         },
         {
+            "id": "I-rnXP-ofqE",
             "name": "Travis Barker - Misfits ft. Steve Aoki-I-rnXP-ofqE.mp4",
             "path": "t/videos/Travis Barker - Misfits ft. Steve Aoki-I-rnXP-ofqE.mp4",
-            "size": 16.526711808,
+            "size": 16.139367,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker - Misfits ft. Steve Aoki-I-rnXP-ofqE.mp4?raw=true"
         },
         {
+            "id": "jlnU92lQvz4",
             "name": "Transplants - Pay Any Price-jlnU92lQvz4.mp4",
             "path": "t/videos/Transplants - Pay Any Price-jlnU92lQvz4.mp4",
-            "size": 3.5015956480000003,
+            "size": 3.419527,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - Pay Any Price-jlnU92lQvz4.mp4?raw=true"
         },
         {
+            "id": "8iDzLlDOUio",
             "name": "Chemical Brothers - Pioneer Skies-8iDzLlDOUio.mp4",
             "path": "t/videos/Chemical Brothers - Pioneer Skies-8iDzLlDOUio.mp4",
-            "size": 5.565538304,
+            "size": 5.435096,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Chemical Brothers - Pioneer Skies-8iDzLlDOUio.mp4?raw=true"
         },
         {
+            "id": "k52xa-LZy_A",
             "name": "THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4",
             "path": "t/videos/THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4",
-            "size": 9.392228352,
+            "size": 9.172098,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/THE HOLY MESS - 'SPENCER REID'-k52xa-LZy_A.mp4?raw=true"
         },
         {
+            "id": "LbouTdwOrVw",
             "name": "Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4",
             "path": "t/videos/Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4",
-            "size": 18.954042368,
+            "size": 18.509807,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tyga - Faded (Official Music Video) (Explicit) ft. Lil Wayne-LbouTdwOrVw.mp4?raw=true"
         },
         {
+            "id": "EOsfDyteYeM",
             "name": "This Apparatus Must Be Unearthed-EOsfDyteYeM.mp4",
             "path": "t/videos/This Apparatus Must Be Unearthed-EOsfDyteYeM.mp4",
-            "size": 7.462578176,
+            "size": 7.287674,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/This Apparatus Must Be Unearthed-EOsfDyteYeM.mp4?raw=true"
         },
         {
+            "id": "fE6YN9VcPPA",
             "name": "The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4",
             "path": "t/videos/The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4",
-            "size": 12.087864320000001,
+            "size": 11.804554999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Mars Volta - Drunkship of Lanterns-fE6YN9VcPPA.mp4?raw=true"
         },
         {
+            "id": "FyIwF1ZTXZA",
             "name": "Cheri - Murphy's Law 1982 RARE VIDEO!!!!-FyIwF1ZTXZA.mp4",
             "path": "t/videos/Cheri - Murphy's Law 1982 RARE VIDEO!!!!-FyIwF1ZTXZA.mp4",
-            "size": 15.490857984000002,
+            "size": 15.127790999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Cheri - Murphy's Law 1982 RARE VIDEO!!!!-FyIwF1ZTXZA.mp4?raw=true"
         },
         {
+            "id": "Q2alvAK36eM",
             "name": "Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4",
             "path": "t/videos/Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4",
-            "size": 3.4448680960000004,
+            "size": 3.3641289999999997,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker feat. Corey Taylor - On My Own-Q2alvAK36eM.mp4?raw=true"
         },
         {
+            "id": "Nujiu1SoSAs",
             "name": "Antonín Dvořák  - Polka for Prague Students-Nujiu1SoSAs.mp4",
             "path": "t/videos/Antonín Dvořák  - Polka for Prague Students-Nujiu1SoSAs.mp4",
-            "size": 4.91882496,
+            "size": 4.80354,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Antonín Dvořák  - Polka for Prague Students-Nujiu1SoSAs.mp4?raw=true"
         },
         {
+            "id": "IrMGqAmjbug",
+            "name": "Stravinsky conducts The Firebird, NY Phil. (final three scenes)-IrMGqAmjbug.mp4",
+            "path": "t/videos/Stravinsky conducts The Firebird, NY Phil. (final three scenes)-IrMGqAmjbug.mp4",
+            "size": 57.924595999999994,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Stravinsky conducts The Firebird, NY Phil. (final three scenes)-IrMGqAmjbug.mp4?raw=true"
+        },
+        {
+            "id": "4TApHHFY8jM",
+            "name": "Cassandra Gemini - Tarantism-4TApHHFY8jM.mp4",
+            "path": "t/videos/Cassandra Gemini - Tarantism-4TApHHFY8jM.mp4",
+            "size": 10.922888,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Cassandra Gemini - Tarantism-4TApHHFY8jM.mp4?raw=true"
+        },
+        {
+            "id": "2myT0HAygFc",
+            "name": "L'Arc~en~Ciel - Blurry Eyes (Sub Español)-2myT0HAygFc.mp4",
+            "path": "t/videos/L'Arc~en~Ciel - Blurry Eyes (Sub Español)-2myT0HAygFc.mp4",
+            "size": 22.753183,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/L'Arc~en~Ciel - Blurry Eyes (Sub Español)-2myT0HAygFc.mp4?raw=true"
+        },
+        {
+            "id": "mcX4fxVbiGI",
+            "name": "► 03 - La Noche Es Nuestra (con BocaFloja) - Akil Ammar - Melokarma (2005) ◄-mcX4fxVbiGI.mp4",
+            "path": "t/videos/► 03 - La Noche Es Nuestra (con BocaFloja) - Akil Ammar - Melokarma (2005) ◄-mcX4fxVbiGI.mp4",
+            "size": 6.453195999999999,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/► 03 - La Noche Es Nuestra (con BocaFloja) - Akil Ammar - Melokarma (2005) ◄-mcX4fxVbiGI.mp4?raw=true"
+        },
+        {
+            "id": "WZseqKBMq4c",
+            "name": "Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-WZseqKBMq4c.mp4",
+            "path": "t/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-WZseqKBMq4c.mp4",
+            "size": 12.098365999999999,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-WZseqKBMq4c.mp4?raw=true"
+        },
+        {
+            "id": "e9VDNR98B64",
+            "name": "Max Mix 2 (Megamix Version) 1985-e9VDNR98B64.mp4",
+            "path": "t/videos/Max Mix 2 (Megamix Version) 1985-e9VDNR98B64.mp4",
+            "size": 22.160000999999998,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Max Mix 2 (Megamix Version) 1985-e9VDNR98B64.mp4?raw=true"
+        },
+        {
+            "id": "moG49nifO4g",
+            "name": "Juan Gabriel   El Noa Noa-moG49nifO4g.mp4",
+            "path": "t/videos/Juan Gabriel   El Noa Noa-moG49nifO4g.mp4",
+            "size": 20.503013,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Juan Gabriel   El Noa Noa-moG49nifO4g.mp4?raw=true"
+        },
+        {
+            "id": "KCtkGdA9CD0",
+            "name": "Robert Parkers A to Z of Jazz Radio Program p18 O-KCtkGdA9CD0.mp4",
+            "path": "t/videos/Robert Parkers A to Z of Jazz Radio Program p18 O-KCtkGdA9CD0.mp4",
+            "size": 42.431048,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Robert Parkers A to Z of Jazz Radio Program p18 O-KCtkGdA9CD0.mp4?raw=true"
+        },
+        {
+            "id": "1I1zPgcT9jI",
+            "name": "TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4",
+            "path": "t/videos/TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4",
+            "size": 4.942601,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/TOTAL CHAOS - HORROR VISIONS-1I1zPgcT9jI.mp4?raw=true"
+        },
+        {
+            "id": "C4zPEmRufMU",
+            "name": "Creedence Clearwater Revival - Cotton Fields-C4zPEmRufMU.mp4",
+            "path": "t/videos/Creedence Clearwater Revival - Cotton Fields-C4zPEmRufMU.mp4",
+            "size": 5.300616,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Creedence Clearwater Revival - Cotton Fields-C4zPEmRufMU.mp4?raw=true"
+        },
+        {
+            "id": "NwNuQulK6N0",
+            "name": "Creedence Clearwater Revival - Someday Never Comes-NwNuQulK6N0.mp4",
+            "path": "t/videos/Creedence Clearwater Revival - Someday Never Comes-NwNuQulK6N0.mp4",
+            "size": 5.767335999999999,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Creedence Clearwater Revival - Someday Never Comes-NwNuQulK6N0.mp4?raw=true"
+        },
+        {
+            "id": "FkexskCsDc0",
+            "name": "Capital Tropical - Two man sound-FkexskCsDc0.mp4",
+            "path": "t/videos/Capital Tropical - Two man sound-FkexskCsDc0.mp4",
+            "size": 10.491926999999999,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Capital Tropical - Two man sound-FkexskCsDc0.mp4?raw=true"
+        },
+        {
+            "id": "DorMv1IybfY",
+            "name": "All Shall Perish - Divine Illusion (HQ)-DorMv1IybfY.mp4",
+            "path": "t/videos/All Shall Perish - Divine Illusion (HQ)-DorMv1IybfY.mp4",
+            "size": 4.880426,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/All Shall Perish - Divine Illusion (HQ)-DorMv1IybfY.mp4?raw=true"
+        },
+        {
+            "id": "oEPvfX3T948",
+            "name": "Jean-Baptiste Krumpholz - Air et Variations-oEPvfX3T948.mp4",
+            "path": "t/videos/Jean-Baptiste Krumpholz - Air et Variations-oEPvfX3T948.mp4",
+            "size": 5.907481,
+            "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Jean-Baptiste Krumpholz - Air et Variations-oEPvfX3T948.mp4?raw=true"
+        },
+        {
+            "id": "HLRLpoRbyxc",
             "name": "Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4",
             "path": "t/videos/Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4",
-            "size": 9.60684544,
+            "size": 9.381685,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transmetal - El Llanto del Paraiso (audio oficial)-HLRLpoRbyxc.mp4?raw=true"
         },
         {
+            "id": "CootZGpMKHI",
             "name": "The Judas Kiss-CootZGpMKHI.mp4",
             "path": "t/videos/The Judas Kiss-CootZGpMKHI.mp4",
-            "size": 21.539393536000002,
+            "size": 21.034564,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Judas Kiss-CootZGpMKHI.mp4?raw=true"
         },
         {
+            "id": "eMP0SlMNh5s",
             "name": "Pasteur Lappe - Na Real Sekele Fo Ya-eMP0SlMNh5s.mp4",
             "path": "t/videos/Pasteur Lappe - Na Real Sekele Fo Ya-eMP0SlMNh5s.mp4",
-            "size": 11.727451136,
+            "size": 11.452589,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Pasteur Lappe - Na Real Sekele Fo Ya-eMP0SlMNh5s.mp4?raw=true"
         },
         {
+            "id": "LYlZlaknfkM",
             "name": "Tu Cancion-LYlZlaknfkM.mp4",
             "path": "t/videos/Tu Cancion-LYlZlaknfkM.mp4",
-            "size": 3.788350464,
+            "size": 3.6995609999999997,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu Cancion-LYlZlaknfkM.mp4?raw=true"
         },
         {
+            "id": "GO-3oXkZwPg",
             "name": "The Jam - When You're Young-GO-3oXkZwPg.mp4",
             "path": "t/videos/The Jam - When You're Young-GO-3oXkZwPg.mp4",
-            "size": 12.662742016000001,
+            "size": 12.365959,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Jam - When You're Young-GO-3oXkZwPg.mp4?raw=true"
         },
         {
+            "id": "BX6eaRwr0sg",
             "name": "They Might Be Giants - Istanbul _Sub.Español-BX6eaRwr0sg.mp4",
             "path": "t/videos/They Might Be Giants - Istanbul _Sub.Español-BX6eaRwr0sg.mp4",
-            "size": 6.099705856000001,
+            "size": 5.956744,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/They Might Be Giants - Istanbul _Sub.Español-BX6eaRwr0sg.mp4?raw=true"
         },
         {
+            "id": "ZtHqMtdutZc",
             "name": "Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4",
             "path": "t/videos/Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4",
-            "size": 7.093412864,
+            "size": 6.927161,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Too Hip, Gotta Go - Stray Cats-ZtHqMtdutZc.mp4?raw=true"
         },
         {
+            "id": "cVfTUJ0wrmM",
             "name": "Tu Sucia Realidad-cVfTUJ0wrmM.mp4",
             "path": "t/videos/Tu Sucia Realidad-cVfTUJ0wrmM.mp4",
-            "size": 0.8881571840000001,
+            "size": 0.8673409999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu Sucia Realidad-cVfTUJ0wrmM.mp4?raw=true"
         },
         {
+            "id": "oCmrpJhDlXg",
             "name": "The Residents  - Troubled Man-oCmrpJhDlXg.mp4",
             "path": "t/videos/The Residents  - Troubled Man-oCmrpJhDlXg.mp4",
-            "size": 5.76203776,
+            "size": 5.62699,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents  - Troubled Man-oCmrpJhDlXg.mp4?raw=true"
         },
         {
+            "id": "TuWuoOX0yis",
             "name": "Transplants - Diamonds & Guns-TuWuoOX0yis.mp4",
             "path": "t/videos/Transplants - Diamonds & Guns-TuWuoOX0yis.mp4",
-            "size": 23.45005056,
+            "size": 22.90044,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - Diamonds & Guns-TuWuoOX0yis.mp4?raw=true"
         },
         {
+            "id": "eiq0hKW39rk",
             "name": "The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4",
             "path": "t/videos/The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4",
-            "size": 5.497206784,
+            "size": 5.368366,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Stray Cats - Rumble In Brighton-eiq0hKW39rk.mp4?raw=true"
         },
         {
+            "id": "L4ePI1zkkyQ",
             "name": "Therion   Quetzalcoatl subtitulos en español-L4ePI1zkkyQ.mp4",
             "path": "t/videos/Therion   Quetzalcoatl subtitulos en español-L4ePI1zkkyQ.mp4",
-            "size": 10.837362688,
+            "size": 10.583362,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Therion   Quetzalcoatl subtitulos en español-L4ePI1zkkyQ.mp4?raw=true"
         },
         {
+            "id": "BVJ8gavk_3g",
             "name": "Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4",
             "path": "t/videos/Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4",
-            "size": 11.673426944000001,
+            "size": 11.399830999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Todos Tus Muertos - Hijo Nuestro-BVJ8gavk_3g.mp4?raw=true"
         },
         {
+            "id": "KeG9ox_czyw",
             "name": "Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4",
             "path": "t/videos/Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4",
-            "size": 4.9951088640000005,
+            "size": 4.878036,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker feat. Kid Cudi - Cool Head-KeG9ox_czyw.mp4?raw=true"
         },
         {
+            "id": "-sKGEWXjbEM",
             "name": "Transplants - We Trusted You--sKGEWXjbEM.mp4",
             "path": "t/videos/Transplants - We Trusted You--sKGEWXjbEM.mp4",
-            "size": 6.185356288,
+            "size": 6.040387,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - We Trusted You--sKGEWXjbEM.mp4?raw=true"
         },
         {
+            "id": "HUCwWQMt2_o",
             "name": "The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4",
             "path": "t/videos/The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4",
-            "size": 4.466506752,
+            "size": 4.361823,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - The Talk Of Creatures-HUCwWQMt2_o.mp4?raw=true"
         },
         {
+            "id": "XKFPno_JBkg",
             "name": "Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4",
             "path": "t/videos/Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4",
-            "size": 4.486910976,
+            "size": 4.381749,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tonino Carotone -   Pecatore-XKFPno_JBkg.mp4?raw=true"
         },
         {
+            "id": "jgRaGy9b35o",
             "name": "Traficando Rimas-jgRaGy9b35o.mp4",
             "path": "t/videos/Traficando Rimas-jgRaGy9b35o.mp4",
-            "size": 10.732362752,
+            "size": 10.480823,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Traficando Rimas-jgRaGy9b35o.mp4?raw=true"
         },
         {
+            "id": "gK8IKQqOkug",
             "name": "The Residents -  Easter Woman-gK8IKQqOkug.mp4",
             "path": "t/videos/The Residents -  Easter Woman-gK8IKQqOkug.mp4",
-            "size": 4.438525952,
+            "size": 4.334498,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents -  Easter Woman-gK8IKQqOkug.mp4?raw=true"
         },
         {
+            "id": "sS6eUIpwwds",
             "name": "The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4",
             "path": "t/videos/The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4",
-            "size": 28.161984512,
+            "size": 27.501938,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Pointer Sisters-I,m So Excited-2002-sS6eUIpwwds.mp4?raw=true"
         },
         {
+            "id": "Kzv6MsV68kQ",
             "name": "The Pierces - You'll Be Mine-Kzv6MsV68kQ.mp4",
             "path": "t/videos/The Pierces - You'll Be Mine-Kzv6MsV68kQ.mp4",
-            "size": 17.710093312,
+            "size": 17.295013,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Pierces - You'll Be Mine-Kzv6MsV68kQ.mp4?raw=true"
         },
         {
+            "id": "PKtvbau5CX0",
             "name": "The Jam - Saturdays Kids-PKtvbau5CX0.mp4",
             "path": "t/videos/The Jam - Saturdays Kids-PKtvbau5CX0.mp4",
-            "size": 4.068881408,
+            "size": 3.9735169999999997,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Jam - Saturdays Kids-PKtvbau5CX0.mp4?raw=true"
         },
         {
+            "id": "hOSGEEswmqQ",
             "name": "Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4",
             "path": "t/videos/Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4",
-            "size": 5.191256064,
+            "size": 5.069586,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thirteen Women - Bill Haley and his Comets-hOSGEEswmqQ.mp4?raw=true"
         },
         {
+            "id": "aJV5NaBQiig",
             "name": "Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4",
             "path": "t/videos/Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4",
-            "size": 17.116391424,
+            "size": 16.715225999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker - Jump Down ft. The Cool Kids-aJV5NaBQiig.mp4?raw=true"
         },
         {
+            "id": "vGnx_TpdVHA",
             "name": "The Residents - My Second Wife-vGnx_TpdVHA.mp4",
             "path": "t/videos/The Residents - My Second Wife-vGnx_TpdVHA.mp4",
-            "size": 4.70078464,
+            "size": 4.59061,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - My Second Wife-vGnx_TpdVHA.mp4?raw=true"
         },
         {
+            "id": "cJRP3LRcUFg",
             "name": "The Smiths - This Charming Man (Official Music Video)-cJRP3LRcUFg.mp4",
             "path": "t/videos/The Smiths - This Charming Man (Official Music Video)-cJRP3LRcUFg.mp4",
-            "size": 9.482626048,
+            "size": 9.260377,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Smiths - This Charming Man (Official Music Video)-cJRP3LRcUFg.mp4?raw=true"
         },
         {
+            "id": "UqMD3cg1qxM",
             "name": "Tu Como Yo - Jose Luis Perales-UqMD3cg1qxM.mp4",
             "path": "t/videos/Tu Como Yo - Jose Luis Perales-UqMD3cg1qxM.mp4",
-            "size": 11.555877888000001,
+            "size": 11.285036999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu Como Yo - Jose Luis Perales-UqMD3cg1qxM.mp4?raw=true"
         },
         {
+            "id": "5_olp3sPZao",
             "name": "Al Bowlly - You Ought To See Sally On Sunday-5_olp3sPZao.mp4",
             "path": "t/videos/Al Bowlly - You Ought To See Sally On Sunday-5_olp3sPZao.mp4",
-            "size": 7.625103360000001,
+            "size": 7.44639,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Al Bowlly - You Ought To See Sally On Sunday-5_olp3sPZao.mp4?raw=true"
         },
         {
+            "id": "BguZZ3rGKe0",
             "name": "AFI - Silver And Cold (Official Music Video)-BguZZ3rGKe0.mp4",
             "path": "t/videos/AFI - Silver And Cold (Official Music Video)-BguZZ3rGKe0.mp4",
-            "size": 13.528392704000002,
+            "size": 13.211321,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/AFI - Silver And Cold (Official Music Video)-BguZZ3rGKe0.mp4?raw=true"
         },
         {
+            "id": "9I0w3bXH5lg",
             "name": "Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4",
             "path": "t/videos/Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4",
-            "size": 1.7223936000000002,
+            "size": 1.6820249999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tragatelo- angustia y esperanza-9I0w3bXH5lg.mp4?raw=true"
         },
         {
+            "id": "cV12iHvpDTM",
             "name": "The Smiths - Well I wonder (Lyrics _ Sub Español - Ingles)-cV12iHvpDTM.mp4",
             "path": "t/videos/The Smiths - Well I wonder (Lyrics _ Sub Español - Ingles)-cV12iHvpDTM.mp4",
-            "size": 16.162635776000002,
+            "size": 15.783824,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Smiths - Well I wonder (Lyrics _ Sub Español - Ingles)-cV12iHvpDTM.mp4?raw=true"
         },
         {
+            "id": "J-2aBcHtmkU",
             "name": "Tu olvido-J-2aBcHtmkU.mp4",
             "path": "t/videos/Tu olvido-J-2aBcHtmkU.mp4",
-            "size": 7.6724203520000005,
+            "size": 7.492598,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tu olvido-J-2aBcHtmkU.mp4?raw=true"
         },
         {
+            "id": "uY3vgBzgYn4",
             "name": "The Staple Singers - I'll Take You There [Full Length Version]-uY3vgBzgYn4.mp4",
             "path": "t/videos/The Staple Singers - I'll Take You There [Full Length Version]-uY3vgBzgYn4.mp4",
-            "size": 8.938573824,
+            "size": 8.729076,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Staple Singers - I'll Take You There [Full Length Version]-uY3vgBzgYn4.mp4?raw=true"
         },
         {
+            "id": "OuepJp9raLo",
             "name": "The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4",
             "path": "t/videos/The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4",
-            "size": 17.635402752,
+            "size": 17.222072999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Ocean Blue - Ice Skating at Night-OuepJp9raLo.mp4?raw=true"
         },
         {
+            "id": "VJicksiGFzk",
             "name": "Tomando Los Golpes-VJicksiGFzk.mp4",
             "path": "t/videos/Tomando Los Golpes-VJicksiGFzk.mp4",
-            "size": 1.879635968,
+            "size": 1.8355819999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Tomando Los Golpes-VJicksiGFzk.mp4?raw=true"
         },
         {
+            "id": "-yg7aZpIXRI",
             "name": "Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4",
             "path": "t/videos/Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4",
-            "size": 18.27727872,
+            "size": 17.848905,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Thelonious Monk Quartet - 'Round Midnight--yg7aZpIXRI.mp4?raw=true"
         },
         {
+            "id": "f2YvRbJS4gA",
             "name": "TROPICALISIMO APACHE - TE GUSTA TEQUILA, TE GUSTA CERVEZA-f2YvRbJS4gA.mp4",
             "path": "t/videos/TROPICALISIMO APACHE - TE GUSTA TEQUILA, TE GUSTA CERVEZA-f2YvRbJS4gA.mp4",
-            "size": 19.967005696,
+            "size": 19.499029,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/TROPICALISIMO APACHE - TE GUSTA TEQUILA, TE GUSTA CERVEZA-f2YvRbJS4gA.mp4?raw=true"
         },
         {
+            "id": "tZctu0cQhQQ",
             "name": "María Reyna - Así Pasa La Vida-tZctu0cQhQQ.mp4",
             "path": "t/videos/María Reyna - Así Pasa La Vida-tZctu0cQhQQ.mp4",
-            "size": 18.155078656,
+            "size": 17.729568999999998,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/María Reyna - Así Pasa La Vida-tZctu0cQhQQ.mp4?raw=true"
         },
         {
+            "id": "KzgMs_jZOJQ",
             "name": "Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4",
             "path": "t/videos/Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4",
-            "size": 5.27865856,
+            "size": 5.15494,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker feat. Paul Wall, Jay Rock & Kurupt - Don't Fuck With Me-KzgMs_jZOJQ.mp4?raw=true"
         },
         {
+            "id": "ljQ51AVB_DU",
             "name": "The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4",
             "path": "t/videos/The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4",
-            "size": 3.073408,
+            "size": 3.001375,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - The Coming Of The Crow-ljQ51AVB_DU.mp4?raw=true"
         },
         {
+            "id": "NbT-PuuLVLA",
             "name": "Baby Ill Be Yours - The Gaylads (Subtitulos Español)-NbT-PuuLVLA.mp4",
             "path": "t/videos/Baby Ill Be Yours - The Gaylads (Subtitulos Español)-NbT-PuuLVLA.mp4",
-            "size": 9.120181248,
+            "size": 8.906426999999999,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Baby Ill Be Yours - The Gaylads (Subtitulos Español)-NbT-PuuLVLA.mp4?raw=true"
         },
         {
+            "id": "ZX4WQnXA7rA",
             "name": "Travis Barker feat. Cypress Hill - Beat Goes On-ZX4WQnXA7rA.mp4",
             "path": "t/videos/Travis Barker feat. Cypress Hill - Beat Goes On-ZX4WQnXA7rA.mp4",
-            "size": 4.322486272,
+            "size": 4.221178,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Travis Barker feat. Cypress Hill - Beat Goes On-ZX4WQnXA7rA.mp4?raw=true"
         },
         {
+            "id": "CB74K0AR-gU",
             "name": "Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4",
             "path": "t/videos/Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4",
-            "size": 9.634082816000001,
+            "size": 9.408284,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/Transplants - 'Tall Cans In The Air' (Full Album Stream)-CB74K0AR-gU.mp4?raw=true"
         },
         {
+            "id": "8vk3BSuwtEM",
             "name": "The Residents - LaLa-8vk3BSuwtEM.mp4",
             "path": "t/videos/The Residents - LaLa-8vk3BSuwtEM.mp4",
-            "size": 3.269353472,
+            "size": 3.192728,
             "url": "https://github.com/circuitalmynds/music_t/blob/main/videos/The Residents - LaLa-8vk3BSuwtEM.mp4?raw=true"
         }
     ],
     "ready_to_push": true,
-    "total_size": 832.6968913920003
+    "total_size": 1045.7172359999995
 }
